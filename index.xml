@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <level>
   <readme>
-    <en>9bfc654e2da2dab9da21040979b95ef5e2b53a56f52afdbcd8c405a42d471a7d</en>
     <pl>d546e177282ee8be3d649b4206bde5f7483e0714b865ed5b6f61a50f6dcbef02</pl>
+    <en>9bfc654e2da2dab9da21040979b95ef5e2b53a56f52afdbcd8c405a42d471a7d</en>
   </readme>
   <license>b1b99f5538d1fd3702219bff50c665196dfa42f6ee755c37fe41a6178d6bc6e5</license>
   <exercise number="1">
@@ -18,6 +18,7 @@
   </exercise>
   <exercise number="2">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>5</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -29,6 +30,7 @@
   </exercise>
   <exercise number="3">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>85</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -40,6 +42,7 @@
   </exercise>
   <exercise number="4">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>85</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -51,6 +54,7 @@
   </exercise>
   <exercise number="5">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>85</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -62,6 +66,7 @@
   </exercise>
   <exercise number="6">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>5</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -73,6 +78,7 @@
   </exercise>
   <exercise number="7">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>5</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -84,6 +90,7 @@
   </exercise>
   <exercise number="8">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>5</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
@@ -95,6 +102,7 @@
   </exercise>
   <exercise number="9">
     <scale>major</scale>
+    <octaves/>
     <lowestNote>5</lowestNote>
     <tonalities>1,2,3,4,5,6,7,8,9,10,11,12</tonalities>
     <notes>
